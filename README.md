@@ -1,6 +1,6 @@
 # servico
 [[redirects]]
-  from = "https://somenetlifysite.netlify.com"
-  to = "https://mycustomdomain.com"
+  from = "https://servicosecondominios.netlify.com"
+  to = "https://servicosecondominios.com"
   status = 200
   force = true
